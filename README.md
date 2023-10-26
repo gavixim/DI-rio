@@ -1,1 +1,1 @@
-# DI-rio
+# Diário
