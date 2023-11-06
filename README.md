@@ -5,4 +5,4 @@
 Na aula de hoje fiz atividades do curso Github, o que foi passado no curso foi como criar um perfil, a criar e editar um repositório(aula 1 do compartilhando projetos).
 
 6 DE NOEMBRO
-Nessa aula assisti dois vídeos(deploy do projeto e licença deu uso) 
+Nessa aula assisti treis vídeos(deploy do projeto e licença de uso e finalizei o curo do Github) 
